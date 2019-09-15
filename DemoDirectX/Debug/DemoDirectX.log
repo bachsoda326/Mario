@@ -1,0 +1,9 @@
+﻿  DemoScene.cpp
+c:\users\bachs\desktop\c++game\13 - sound\demodirectx\scenes\demoscene.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bachs\desktop\c++game\13 - sound\demodirectx\scenes\demoscene.cpp(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bachs\desktop\c++game\13 - sound\demodirectx\scenes\demoscene.cpp(95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bachs\desktop\c++game\13 - sound\demodirectx\scenes\demoscene.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bachs\desktop\c++game\13 - sound\demodirectx\scenes\demoscene.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bachs\desktop\c++game\13 - sound\demodirectx\scenes\demoscene.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DemoDirectX.vcxproj -> C:\Users\bachs\Desktop\C++game\13 - Sound\Debug\DemoDirectX.exe
+  DemoDirectX.vcxproj -> C:\Users\bachs\Desktop\C++game\13 - Sound\Debug\DemoDirectX.pdb (Partial PDB)
